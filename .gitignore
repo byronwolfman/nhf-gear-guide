@@ -1,0 +1,12 @@
+drafts/
+
+.hugo_build.lock
+assets/jsconfig.json
+hugo_stats.json
+public/*
+!public/_redirects
+/resources/_gen/*
+
+.DS_Store
+*.swp
+TODO.md

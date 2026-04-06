@@ -1,0 +1,19 @@
+baseURL = "http://127.0.0.1" # TODO: no!
+title = "Unofficial NHF Gear Guide"
+theme = "hugo-book"
+languageCode = "en-ca"
+defaultContentLanguage = "en-ca"
+
+copyright = "© 2026 Byron Wolfman"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup]
+[markup.tableOfContents]
+  startLevel = 1
+
+[params]
+BookTheme = "auto"
+BookToC = true
+
+BookSection = "articles"
