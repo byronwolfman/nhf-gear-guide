@@ -4,7 +4,7 @@ theme = "hugo-book"
 languageCode = "en-ca"
 defaultContentLanguage = "en-ca"
 
-copyright = "© 2026 Byron Wolfman"
+copyright = "© 2026 Byron Wolfman and [others](/articles/about/credits)"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 

@@ -11,20 +11,19 @@ weight: 2
 
 Resist the urge to buy a sword first! Instead, acquire in the following order:
 
-* [Groin protection](/articles/protection/groin-protection) (get this yesterday)
-* [Mask](/articles/protection/masks)
-* [Gloves](/articles/protection/gloves)
 * [Jacket](/articles/protection/jackets)
+* [Gorget](/articles/protection/gorgets)
+* [Forearms and elbows](/articles/protection/forearms-and-elbows)
 * Everything else
 
-Like many things in this guide you _can_ make other choices. If you're unsure where to begin though, this order gets you the most essential pieces first. There are still things missing that are important for safe sparring with steel trainers, but with this initial equipment you can start conditioning yourself to fence in a padded jacket whose dual purposes are to protect you and retain the heat of a thousand burning suns.
+The club has spare masks, gloves and swords, so acquiring the above protectors first is the fastest path to steel sparring. The jacket is a crucial piece of early gear that can influence a lot of your other kit according to its thickness, presence (or lack) of arming straps, and even visual style. It's also your first opportunity to really personalize your look.
+
+Look for a mask and gloves next, and save leg protection for last. Leg protection is important, to be clear, but you can get through a lot of classes by warning your drilling/sparring partner that you're not wearing lower body protection.
 
 ## A Note on Swords and Heartbreak
 
-I want to reiterate that a sword is usually not the first thing you should buy. Some of you are going to do it anyway and I can't blame you. It's fun having your own sword! It's fun having several! If you absolutely must though, understand the reasons why we make this recommendation, and plan accordingly:
+I want to reiterate that a sword is not the first thing you should buy. Some of you are going to do it anyway and I can't blame you. It's fun having your own sword, so if you absolutely must get one, understand the reasons why we make this recommendation and plan accordingly:
 
-**Steel trainers are not safe for most partner drills without protective equipment.** If you have a steel trainer but no protective gear, you'll be able to use it for solo drills and a very limited set of partner drills (e.g. the "murder waltz"). Many of our drills involve someone landing a strike, so if you don't have most of your protective gear yet, you'll need to do those drills with a club foam sword instead.
+**Steel trainers are not safe for partner drills unless you're both wearing protective equipment.** If you don't have any protective gear, then you'll have to put away your steel trainer for partner drills and pick up a foam trainer instead. Partner drills frequently focus on landing a strike, which isn't fun or safe if you don't have the right protection for the trainer you're using.
 
-**You don't want to order the wrong sword!** There's no such thing as "the wrong sword" but there is such thing as the wrong sword for _you_. Everyone has different preferences for handling, presence, weight, hilt characteristics, and for sabres, curvature. It's hard to know what kind of sword you like until you've handled some.
-
-I've seen at least a few cases where someone has bought a sword without knowing how it will handle, and then becoming discouraged when it is not what they were expecting. It's much more fun to unpack a new sword, swing it around, and find out it's exactly what you wanted and expected.
+**You don't want to order the wrong sword.** There's no such thing as "the wrong sword" but there is such thing as the wrong sword for _you_. All of these swords handle differently, and you want to be fighting with your sword instead of against it. I've seen cases where someone becomes discouraged by their first sword because it handles unexpectedly. It's much more fun to try a bunch of different swords at the club, find out what you like, and then order a sword that handles the way you want it to.
