@@ -15,4 +15,4 @@ Starter kits are usually made-to-order, with production and shipping taking anyw
 
 Something of a recurring theme with Superior Fencing jackets and pants is that the fit is _not great_. Most NHF students that have bought these kits spend most of their time plotting to replace them. While not a universal experience, it's common enough to carry a warning label. Supfen kits are a quick and inexpensive way to get geared up quickly, but if rock-bottom cost is not your primary motivator, you will be better served by another brand like SPES.
 
-If you do opt for one of these kits, err on the side of a relaxed fit when you measure yourside. A slightly loose jacket will still let you move, whereas a tight jacket that prevents you from getting one or both arms above your head will lock you out of some of the most effective guards and parries in our systems.
+If you do opt for one of these kits, err on the side of a relaxed fit when you measure yourself. A slightly loose jacket will still let you move, whereas a tight jacket that prevents you from getting one or both arms above your head will prevent you from executing some of the most important guards in our systems.
