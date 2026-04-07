@@ -15,7 +15,7 @@ Thinner jackets are usually branded as "Light." These breath better in the summe
 
 ## 350N vs 800N: Which Should You Get?
 
-One of our clubmates wanted to answer this with scientific precision and performed controlled tests against different fabrics using different steel trainers and styles of tips. [You can read the paper here](https://swordscience.ca/research-projects/) if you want all the details; if not, the punch line is this: 350N is better than nothing, and 800N offers significantly protection.
+One of our clubmates wanted to answer this with scientific precision and performed controlled tests against different fabrics using different steel trainers and styles of tips. [You can read the paper here](https://swordscience.ca/research-projects/) if you want all the details; if not, the punch line is this: 350N is better than nothing, and 800N offers significantly better protection.
 
 Can you get away with 350N? Sure, because safety cannot rely on only a single piece of gear performing its job. Increasing the tip's surface area and visibility with a leather or thermoplastic tip increases the force required to puncture, and wearing a hard chest protector adds another layer of defence for your organs.
 
