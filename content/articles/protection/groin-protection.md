@@ -1,12 +1,13 @@
 ---
 title: "Groin Protection"
+weight: 11
 ---
 
 # Groin Protection
 
 Get yourself an athletic cup, also known as a jock cup or jill cup. Better yet get 2-3 depending on how often you want to attend class and how often you do laundry.
 
-While the area that the cup protects is a forbidden target, accidents do happen. If you try to thrust at someone's centre and they offline your blade low, that could be a problem. If you're making a leg cut and they try to void but don't quite make it, that could be a problem.
+While the area that the cup protects is a forbidden target, accidents do happen. If you aim a thrust at your opponent's centre and they offline your blade low, that could be a problem. If you're making a leg cut and they try to void but don't quite make it, that could be a problem.
 
 ## Tournaments
 
@@ -16,4 +17,4 @@ You're not going to get hit there a lot. But when you do, you'll really want to 
 
 ## Recommendations
 
-A lot of online sellers carry cups because as long as you're buying fencing pants from them, they may as well offer you a cup as well. Athletic cups are not HEMA-specific however; you can just as easily pop into a SportChek and grab whatever they have off the shelf.
+While many online sellers carry cups for the sake of a complete catalog, this is not specialized fencing gear. You can just as easily pick up an athletic cup from your local SportChek and grab whatever they have in stock.

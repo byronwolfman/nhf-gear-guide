@@ -1,18 +1,19 @@
 ---
 title: "Masks"
+weight: 5
 ---
 
 # Masks
 
-If you plan on going to tournaments, consider favouring a 1600N/FIE level 2 mask. If you are not planning on going to tournaments, your options open up a bit more.
+If you plan on going to tournaments, you should opt for a 1600N/FIE level 2 mask. These are not required yet, but times are changing. If you are not planning on going to tournaments, your options open up a bit more.
 
-One of the most important things in a fencing mask is a good fit. It shouldn't bobble around independently, nor should it be overly tight. Your face also shouldn't be so close to the mesh that it hits your nose on direct strike (also known as waffling). My recommendation would be to try on a few masks from anyone in a sharing mood to see what fits. Manufacturers have size charts to help, but since heads come in not only different sizes but also different _shapes_, you'll want to eliminate the guesswork.
+One of the most important things in a fencing mask is a good fit. It shouldn't bobble around independently, nor should it be overly tight. Your face also shouldn't be so close to the mesh that it hits your nose on direct strike (also known as waffling). Unfortunately mask sizing charts are little better than a coin flip, and the only reliable way to know if something will fit is by trying one on (usually one belonging to the club, or a fellow fencer if you ask nicely).
 
 Masks are generally stocked rather than made-to-order, so if a seller lists a mask as in stock, it will ship quickly.
 
 ## Basic and Economy Masks
 
-If you're not attending a tournament and just want a basic mask, these could do the trick. I thought I'd have a longer list, but many of the more common basic masks (like the Absolute Force Basic) aren't that cheap anymore, especially when taking into account shipping and duties. The only reason to opt for a basic mask is to save a couple bucks, otherwise you may as well upgrade to one of the better 1600N options.
+If you're not attending a tournament and just want a basic mask, these can do the trick. The only reason to opt for a basic mask is to save a couple bucks, otherwise you may as well upgrade to one of the better options. Longsword fencers may as well skip economy options, as cheaper meshes are more likely to cave from a fully cranked longsword swing.
 
 Basic/economy recommendations:
 
@@ -33,8 +34,8 @@ If you're going to attend tournaments, you should consider one of these masks. S
 * [PBT Black 1600N mask](https://shop.pbtfencing.com/hema-fie-mask1600-n-full-black3341hema)
 * [Swordshop 1600N mask](https://www.swordshop.ca/product/stainless-steel-hema-mask/49)
 
-## Protection
+## Wukusi Cobra
 
-If protection is a priority, look for a 1600N mask with a level 2 FIE certification. I don't think these are the norm just yet; the push to standardize on these masks is largely coming from the tournament scene, so a lot of us are still running around with basic masks for now.
+This is technically a 350N mask, due to the newton rating referring only to the bib. Look closer though and it's unique among these recommendations: it has a full hard plastic shell and an integrated rigid back of head protector. The mesh is also designed with HEMA in mind so it has a sharp ridge to deflect thrusts.
 
-In the meanwhile if you do opt for a more basic mask, look for those overlapping protections: choose a mask that keeps your face away from the mesh to avoid waffling, choose a jacket with a bladecatcher in the collar, and wear a good gorget.
+Despite tournament organizers moving towards 1600N masks, this one will absolutely pass gear check on account of being indestructible. One downside: the ventilation is not great. Also they are hard to find. [Purpleheart sometimes has them](https://www.woodenswords.com/product_p/wu.cobra.htm) if you are willing to absorb the high shipping and customs fees.

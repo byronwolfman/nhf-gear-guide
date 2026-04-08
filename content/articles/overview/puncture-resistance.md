@@ -11,7 +11,7 @@ The reason we wear puncture resistant fabrics when fencing with blunt swords is 
 
 An important caveat is that higher puncture resistance does not necessarily mean a jacket with thicker padding. Some jackets achieve their puncture resistance with more material, but strictly speaking, puncture resistance is a trait that is independent of padding thickness.
 
-Thinner jackets are usually branded as "Light." These breath better in the summer when the DSBN decides not to air condition their gyms, but the trade-off is that you will bruise more easily unless you achieve an impossibly perfect defence.
+Thinner jackets are usually branded as "Light." These breathe better in the summer when the DSBN decides not to air condition their gyms, but the trade-off is that you will bruise more easily unless you achieve an impossibly perfect defence.
 
 ## 350N vs 800N: Which Should You Get?
 
