@@ -3,16 +3,13 @@
 
 ![Broadswords and Targes](/images/bonk.jpg)
 
+{{<sub "Photo by Elizabeth Whitten">}}
+
+---
 # An Unofficial NHF Gear Guide
 
-Gear is a recurring theme at [Niagara Historical Fencing](https://niagarahistoricalfencing.ca/) for new students. There are already generic guides out there which are good, so the purpose of **this** guide is to be NHF-specific. That's because preference, tournament legality, and overall "meta" vary by country, province, and even neighbouring clubs.
+A common question for new students at [Niagara Historical Fencing](https://niagarahistoricalfencing.ca/) is where to find good quality fencing gear. The purpose of this guide is to offer some NHF-specific answers since preference, tournament legality, and overall "meta" vary by region.
 
-If you're not a member of NHF then this guide might still be nominally useful, but you should really check with the fencers at your club first. What qualifies as a "lightweight" sabre is going to vary by as much as 100-200g depending on where you live and who you ask.
+The recommendations also vary according to _you._ The guide calls attention to equipment that is favoured or disallowed by local tournament organizers in case attending tournaments is something you want to do. Our club has good turnouts at events, but we're not a tournament-oriented club, so if you see something in this guide that you like that isn't tournament legal, that's ok if the vibe you're looking for is more "social club with swords."
 
-I also want to emphasize that this guide aims only to be starting point. Everyone has different priorities for comfort, utility, aesthetic, and cost, and those will change over time. Whether or not you decide to go to tournaments is another factor, as organizers may require specific protection ratings or weapon specifications. I'll try to call those out where relevant in case that's you.
-
-Last but not least, if you're interested in a particular piece of equipment, ask around in Discord. Someone might own it. We might all have opinions about it. If there's one thing we love to do, it's talking about swords and sword stuff.
-
-If this is your first time here then I recommend reading the overview sections in order. After that, read as much or as little as you want in whatever order you want. Or don't-- I'm not the boss of you.
-
-_*All content on this webzone has been written by humans and without AI assistance. All photos used with the consent of their subject._
+This guide can be read in almost any order, but I recommend starting with Overview sections as it will answer questions like "what does 800N mean?" when you begin shopping for a jacket. If you see something missing or have a question, we're all on Discord, and you just know we love talking about swords and sword stuff.

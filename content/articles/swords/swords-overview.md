@@ -4,6 +4,8 @@ weight: 1
 ---
 ![Gabby and her four swords](/images/four-swords.jpg)
 
+{{<sub "Photo by Byron Wolfman">}}
+
 ---
 # Swords Overview
 
