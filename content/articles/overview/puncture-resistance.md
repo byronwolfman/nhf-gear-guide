@@ -15,11 +15,11 @@ Thinner jackets are usually branded as "Light." These breathe better in the summ
 
 ## 350N vs 800N: Which Should You Get?
 
-One of our clubmates wanted to answer this with scientific precision and performed controlled tests against different fabrics using different steel trainers and styles of tips. [You can read the paper here](https://swordscience.ca/research-projects/) if you want all the details; if not, the punch line is this: 350N is better than nothing, and 800N offers significantly better protection.
+One of our clubmates wanted to answer this with scientific precision and performed controlled tests against different fabrics using different steel trainers and styles of tips. [You can read the paper here](https://swordscience.ca/research-projects/) if you want all the details. If not, the punch line is this: 350N is better than nothing, and 800N offers significantly better protection.
 
 Can you get away with 350N? Sure, because safety cannot rely on only a single piece of gear performing its job. Increasing the tip's surface area and visibility with a leather or thermoplastic tip increases the force required to puncture, and wearing a hard chest protector adds another layer of defence for your organs.
 
-All things being equal (which, admittedly, they are not) an 800N jacket will offer objectively better protection. An 800N jacket is a good idea if you will want to fence with weapons that can transmit a lot of force through a small tip, like a rapier. An 800N jacket will cost more however, and can retain more heat, which isn't much fun in the summer. There are consequently a lot of us running around with 350N jackets, and I don't want to make it seem like you will definitely get stabbed if you don't opt for 800N.
+All things being equal (which, admittedly, they are not) an 800N jacket will offer objectively better protection. An 800N jacket is a good idea if you will want to fence with weapons that can transmit a lot of force through a small tip, like a rapier. An 800N jacket will cost more however, and can retain more heat, which isn't much fun in the summer. Consequently, there are a lot of us running around with 350N jackets, and I don't want to make it seem like you will definitely get stabbed if you don't opt for 800N.
 
 ## Mask Ratings
 

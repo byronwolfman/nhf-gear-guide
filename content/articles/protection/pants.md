@@ -21,7 +21,7 @@ Another common form factor is "puffy pants" or "pluderhose." These are pretty mu
 
 Last but not least are padded skirts and kilts which can offer better mobility or aesthetic. There are long and short varieties, the latter of which may not necessarily be sufficient on its own.
 
-Women, fencers presenting as women, and anyone with unique proportions should opt for custom sizing when buying padded pants (another unfortunate case of the pink tax). Non-customized puffy pants, skirts, and kilts will be more forgiving of different body shapes.
+Women and femme-presenting fencers, and anyone with unique proportions should opt for custom sizing when buying padded pants (another unfortunate case of the pink tax). Non-customized puffy pants, skirts, and kilts will be more forgiving of different body shapes.
 
 ## Recommendations
 

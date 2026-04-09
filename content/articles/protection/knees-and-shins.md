@@ -11,6 +11,8 @@ Some of these protectors come as combination shin + knees, and others as separat
 
 ## Recommendations
 
+All of the below recommended protectors are accepted by local tournament organizers.
+
 ### Used Hockey Shins
 
 The fastest, cheapest way to get shin protection is to see who in your neighbourhood is selling old hockey gear. The hardest part about buying used hockey shins is that the seller will try to sell you the rest of their kit too.

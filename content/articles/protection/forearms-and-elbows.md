@@ -18,6 +18,8 @@ _(See also [upper arms and shoulders](/articles/protection/upper-arms-and-should
 
 ## Recommendations
 
+All of the below recommended protectors are accepted by local tournament organizers.
+
 ### SPES
 
 For single-handed weapons, the SPES [Geko](https://histfenc.eu/en/men/43-geko-forearm-and-elbow-overlays-5908433172460.html) and [Vectir](https://histfenc.eu/en/men/91-vectir-forearm-and-elbow-overlays-5900162169131.html) protectors are probably some of the best protectors you can get. They wrap around the whole arm, and the elbow protector attaches with velcro to provide overlapping coverage even with a bent elbow. It's possible to do longsword sparring with them too, but since these protectors use several strips of plastic inserts instead of one or two big pieces, you'll still feel a hard hit from a longsword.

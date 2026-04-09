@@ -23,6 +23,8 @@ Protectors that tie onto arming straps come with small lengths of elastic paraco
 
 ## Recommendations
 
+Upper arm and shoulder protectors are not always required by tournaments, so always check the rules. Where such protectors are required, all of the below recommended protectors are accepted by local tournament organizers.
+
 ### SPES
 
 They don't look like much, but the SPES [PRO Set](https://histfenc.eu/en/men/97-pro-set-shoulders-and-upper-arms-5909378287547.html) upper arm/shoulder guards are surprisingly effective. These protect the shoulder and outside upper arm where you are most likely to be hit. These are strongly recommended for anyone wearing a light variant jacket regardless of your choice of fencing weapon.

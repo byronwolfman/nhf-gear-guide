@@ -11,9 +11,11 @@ Consider your chest protector and [gorget](/articles/protection/gorgets/) in tan
 
 ## Recommendations
 
+All of the below recommended chest protectors are accepted by local tournament organizers. Just about anything will pass gear check, even "bucket tech."
+
 ### Women's Chest Protectors
 
-While some fencers can get away with a flat "men's" chest protector, women and fencers presenting as women should investigate women's chest protectors. A men's chest protector has all the same problems as a "unisex" t-shirt while also being rigid, whereas women's chest protectors are designed to accommodate different bust sizes.
+While some fencers can get away with a flat "men's" chest protector, women and femme-presenting fencers should investigate women's chest protectors. A men's chest protector has all the same problems as a "unisex" t-shirt while also being rigid, whereas women's chest protectors are designed to accommodate different bust sizes.
 
 Swordshop carries a basic cupped [women's chest protector](https://www.swordshop.ca/product/Womens-Chest-Protector/48).
 

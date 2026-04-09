@@ -14,15 +14,15 @@ There are (broadly speaking) two major sources of HEMA gear:
 1. Original equipment makers (OEMs)
 1. Distributors
 
-**OEMs** generally make equipment to order, can have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement is inconsistent in my experience, so hope for the best and plan for the worst.
+**OEMs** generally make equipment to order, have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement is inconsistent in my experience, so hope for the best and plan for the worst.
 
-**Distributors** on the other hand are more like storefronts that stock ready-to-ship gear. Some distributors stock the same equipment you would otherwise buy from OEMs, sometimes whitelabelled, and often at competitive prices because they can bulk order. Stock tends to ebb and flow, and when something is in stock it is almost always the fastest way to get something. These tend _not_ to be drop-shippers, since they must bulk order their inventory to achieve margin and overcome their import costs.
+**Distributors** on the other hand are more like storefronts that stock ready-to-ship gear. Some distributors stock the same equipment you would otherwise buy from OEMs, sometimes whitelabelled, and often competitively priced because they can bulk order. Stock tends to ebb and flow, and when something is in stock it is almost always the fastest way to get something. These tend _not_ to be drop-shippers, since they must bulk order their inventory to achieve margin and overcome their import costs.
 
 The line is a bit blurred in cases where distributors have entered into partnership with swordmakers, but the above distinction mostly holds.
 
-## TODO: Get Mackenzie's anti-UPS-extortion guide
+## Customs and Self Clearing
 
-(We'll link out to it. This page is big enough as it is.)
+International orders that ship through Canada Post tend to have reasonable customs fees, but private couriers like UPS, FedEx, and DHL often inflate this by bundling their clearance fees with the shipment. For private couriers, consider [self-clearing](https://borderbee.com/2014/01/13/how-to-self-clear-your-parcel-with-customs/) if the numbers don't seem to add up.
 
 ## List of Sellers
 
@@ -37,7 +37,7 @@ Below is a non-exhaustive list of OEMs and distributors that are broadly conside
 [Swordshop](https://www.swordshop.ca/) | 🇨🇦 | Distributor in Winnipeg, Manitoba. Swordshop has also begun designing and selling swords through partnerships.
 ||
 [Armstreet](https://armstreet.com/) | 🇺🇸 | OEM mostly for medieval re-enactment, and also some HEMA gear.
-[Aureus Swords](https://aureusswords.com/) | 🇵🇱 | OEM premium longsword maker. Known for multi-year wait times (the swords may just be good enough to warranty it).
+[Aureus Swords](https://aureusswords.com/) | 🇵🇱 | OEM premium longsword maker. Known for multi-year wait times (the swords may just be good enough to warrant it).
 [Castille Armory](https://castillearmory.com/) | 🇺🇸 | OEM sword maker. Castille offers many different kinds of swords, and within NHF are best known for the Economy Broadsword with a feder blade, and their Economy Duelling Sabres.
 [Darkwood Armory](https://rapiers.darkwoodarmory.com/) | 🇺🇸 | OEM sword maker (plus some other stuff).
 [Feather Smallswords](https://www.feathersmallswords.com/) | 🇷🇸 | OEM smallsword maker.
