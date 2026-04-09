@@ -5,7 +5,7 @@ weight: 6
 
 # Mask Overlays / Back of Head Protector
 
-The back of the head is a forbidden target, but accidents happen. Sometimes it's an unexpected offline step from our opponent, and sometimes it's us flinching and exposing the back of our head. An overlay with a back of head protector is pretty critical equipment. You can do partner drills and _low_ intensity sparring without one (your instructor will usually point out to your opponent "hey watch out, they don't have a back of head protector!") but going without one is rolling the dice. Tournaments require these.
+The back of the head is a forbidden target, but accidents happen. Sometimes it's an unexpected offline step from your opponent, and sometimes it's someone flinching and exposing the back of their head. An overlay with a back of head protector is pretty critical equipment. You can do partner drills and _low_ intensity sparring without one (your instructor will usually point out to your opponent "hey watch out, they don't have a back of head protector!") but going without one is rolling the dice. Tournaments require these.
 
 ## Rigid vs Not
 

@@ -9,10 +9,10 @@ weight: 1
 ---
 # Swords Overview
 
-Whether it's after careful deliberation or the reckless but reasonable desire to have a sword, it's time to get one.
+Whether you're driven by careful deliberation or the reckless but reasonable desire to have a sword right away, it's time to get one.
 
-Steel HEMA swords/trainers are not like regular swords. Despite being _swords_ there is a lot of work that goes into making them safe. Not only are steel trainers blunt along the edge, their tips can be made with larger surface areas to reduce the chance of a puncture. Steel trainers also bend on a good thrust, since we're more concerned with seeing the thrust than doing damage.
+Steel HEMA trainers are not like regular swords. Despite being _swords_ there is a lot of work that goes into making them safer than just taking a real sword and blunting all the edges. Good HEMA trainers also have high surface area tips and flex under thrust. For this reason you should never use a real blunted sword in partner drills or sparring, and especially never a sharp one.
 
-This bendiness can make it challenging to produce a good sword. A wobbly sword may not parry as well without perfect edge alignment. Esker Forge has a [pretty good write-up about this](https://eskerforge.com/principles-of-sword-design/) which is not required reading, but might be fun if that's your kind of jam.
+Producing a trainer that flexes under thrust but maintains its shape in a bind can be challenging, and you will sometimes see complaints of swords being too "floppy." It turns out we're just as good at making floppy swords as we are at making stiff ones -- the trick is to make one that can do both under the right circumstances. Esker Forge has a [pretty good write-up about this](https://eskerforge.com/principles-of-sword-design/) which is not required reading, but might be fun if that's your kind of jam.
 
-All this to say: do not go out to an antique market or auction in hopes of buying a cool sword and using it in class. You can definitely go out and find a cool sword, bring it to class, and show everyone, but you won't be able to spar with it (and it definitely won't pass gear check at a tournament).
+All this to say: when you begin looking at swords and hearing critiques of them, you'll have to decide what matters most to you. Many things in life are a trade-off, even swords! It will be this way at least until material sciences produces the perfect HEMA trainer, and maybe even after that too.
