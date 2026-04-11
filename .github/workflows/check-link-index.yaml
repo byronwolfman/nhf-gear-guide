@@ -23,4 +23,8 @@ jobs:
             echo -e
 
             git diff --exit-code
+          else
+            echo -e
+            echo "layouts/shortcodes/link-index.html rendering validated ok"
+            echo -e
           fi
