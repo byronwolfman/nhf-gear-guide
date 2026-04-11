@@ -42,6 +42,7 @@ def gather_files(path: str) -> list[str]:
             # That one
             md_files.append(f"{root}/{f}")
 
+    md_files.sort()
     return md_files
 
 
