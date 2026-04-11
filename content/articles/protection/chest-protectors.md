@@ -35,4 +35,4 @@ If you're looking for something more substantial, the [MAC chest protector](http
 
 Another popular option is a brigandine. These are usually worn over the jacket and look stylish while they protect you. Whereas most chest protectors are made of one or two pieces of plastic, brigandines are a flexible canvas of plates, which some fencers find more comfortable.
 
-You can get [a brigandine from HCA](https://www.historicalcombatarmory.com/product-page/brigandine). I haven't seen them carried by a lot of other sellers, but that could change over time.
+You can get [a brigandine from HCA](https://www.historicalcombatarmory.com/product-page/brigandine). They're not yet carried by a lot of other sellers, but that could change over time.

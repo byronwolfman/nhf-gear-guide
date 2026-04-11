@@ -22,7 +22,7 @@ Look for a mask and gloves next, save leg protection for last. To be clear, leg 
 
 ## A Note on Swords and Heartbreak
 
-I want to reiterate that a sword is not the first thing you should buy. Some of you are going to do it anyway and I can't blame you. It's fun having your own sword, so if you absolutely must get one, understand the reasons why we make this recommendation and plan accordingly:
+I want to reiterate that a sword is not the first thing you should buy. Some of you are going to do it anyway, and who can blame you? It's fun having your own sword, so if you absolutely must get one, understand the reasons why we make this recommendation and plan accordingly:
 
 **Steel trainers are not safe for partner drills unless you're both wearing protective equipment.** If you don't have any protective gear, then you'll have to put away your steel trainer for partner drills and pick up a foam trainer instead. Partner drills frequently focus on landing a strike, which isn't fun or safe if you don't have the right protection for the trainer you're using.
 

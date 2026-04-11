@@ -19,7 +19,7 @@ One of our clubmates wanted to answer this with scientific precision and perform
 
 Can you get away with 350N? Sure, because safety cannot rely on only a single piece of gear performing its job. Increasing the tip's surface area and visibility with a leather or thermoplastic tip increases the force required to puncture, and wearing a hard chest protector adds another layer of defence for your organs.
 
-All things being equal (which, admittedly, they are not) an 800N jacket will offer objectively better protection. An 800N jacket is a good idea if you will want to fence with weapons that can transmit a lot of force through a small tip, like a rapier. An 800N jacket will cost more however, and can retain more heat, which isn't much fun in the summer. Consequently, there are a lot of us running around with 350N jackets, and I don't want to make it seem like you will definitely get stabbed if you don't opt for 800N.
+All things being equal (which, admittedly, they are not) an 800N jacket will offer objectively better protection. An 800N jacket is a good idea if you will want to fence with weapons that can transmit a lot of force through a small tip, like a rapier. An 800N jacket will cost more however, and can retain more heat, which isn't much fun in the summer. Consequently, there are a lot of us running around with 350N jackets, and it's not like you will definitely get stabbed if you don't opt for 800N.
 
 ## Mask Ratings
 

@@ -49,7 +49,7 @@ Overall: choose crossguard styles that have blunt or rounded faces, and which do
 
 ## Pommels
 
-The placement of your offhand on the pommel lets you use a longsword like a lever instead of a hammer. An OEM that lets you customize the pommel is letting you pick something that will change the sword's feel and also look pretty rad when hanging on your wall.
+The placement of your offhand on the pommel lets you use a longsword like a lever instead of a hammer. An OEM that lets you customize the pommel is letting you pick something that will change the sword's feel and also look pretty neat when hanging on your wall.
 
 Pear pommels get the job done, but depending on size and gloves, may sometimes let your hands slip. Onion, mushroom, and faceted pommels share the basic idea behind a pear pommel but are easier to grip.
 

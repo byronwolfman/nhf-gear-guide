@@ -10,7 +10,7 @@ weight: 3
 ---
 # Forearms and Elbows
 
-A thick padded jacket isn't enough to protect your elbows from a direct strike (ask me how I know). Elbow protection is often combined with forearm protection, and should be worn on both left and right sides even if you're only using a one-handed weapon in case a blade grab goes wrong.
+A thick padded jacket isn't enough to protect your elbows from a direct strike. Elbow protection is often combined with forearm protection, and should be worn on both left and right sides even if you're only using a one-handed weapon in case a blade grab goes wrong.
 
 Forearm and elbow protectors are usually not needed for smallsword, but some tournament organizers may require them regardless.
 

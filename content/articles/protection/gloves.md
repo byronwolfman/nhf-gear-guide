@@ -19,7 +19,7 @@ Beginner longsword fencers are **strongly** recommended to seek out mittens as t
 
 ### Thokk Weaponmaster Gauntlets
 
-These are high-quality five-finger gloves that offer good protection and dexterity. They are accepted at local tournaments for single-handed weapons. I haven't seen them carried by any Canadian distributors, so you will have to order them directly from Thokk. They come in [350N](https://www.thokk-research.com/product-page/weaponmaster-gauntlets-pro) and [800N "Blade Proof"](https://www.thokk-research.com/product-page/weaponmaster-gauntlets-bladeproof) variants.
+These are high-quality five-finger gloves that offer good protection and dexterity. They are accepted at local tournaments for single-handed weapons. They're hard to find through Canadian distributors, so you will have to order them directly from Thokk. They come in [350N](https://www.thokk-research.com/product-page/weaponmaster-gauntlets-pro) and [800N "Blade Proof"](https://www.thokk-research.com/product-page/weaponmaster-gauntlets-bladeproof) variants.
 
 These gloves do not fit in a broadsword hilt.
 

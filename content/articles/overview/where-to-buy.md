@@ -26,7 +26,7 @@ International orders that ship through Canada Post tend to have reasonable custo
 
 ## List of Sellers
 
-Below is a non-exhaustive list of OEMs and distributors that are broadly considered trustworthy. Any omission does not mean a seller is untrustworthy, that's just the nature of curation. There is one exception:  I would strongly recommend avoiding Amazon or similar online megastores with marketplace sellers in order to avoid counterfeits and/or unsafe gear.
+Below is a non-exhaustive list of OEMs and distributors that are broadly considered trustworthy. Any omission does not mean a seller is untrustworthy, that's just the nature of curation. There is one exception: it's strongly recommended to avoid buying from Amazon or similar online megastores with marketplace sellers. This is to avoid a counterfeit of something meant to keep you safe.
 
 |Name|Location|Notes|
 |-|-|-|
