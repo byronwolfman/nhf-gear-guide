@@ -9,7 +9,7 @@ weight: 2
 ---
 # Order of Operations
 
-Resist the urge to buy a sword first! Instead, acquire in the following order:
+Resist the urge to buy a sword first! Instead, acquire in roughly the following order:
 
 * [Jacket](/articles/protection/jackets)
 * [Gorget](/articles/protection/gorgets)
