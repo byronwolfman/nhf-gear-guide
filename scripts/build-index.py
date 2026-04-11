@@ -2,7 +2,6 @@
 
 import os
 import re
-import sys
 
 # Regex for finding/extracting base https://example.org
 site_re = re.compile("https?://[^/\\s]+", re.IGNORECASE)

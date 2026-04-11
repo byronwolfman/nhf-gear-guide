@@ -1,0 +1,19 @@
+---
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  check-link-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Verify link-index shortcode is up-to-date
+        run: |
+          # Generate/re-generate link index
+          ./scripts/build-index.py
+
+          # Check for changes, and complain if any are found
+          git diff --exit-code layouts/shortcodes/link-index.html
