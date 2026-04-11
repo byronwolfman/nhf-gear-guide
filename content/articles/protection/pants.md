@@ -35,7 +35,7 @@ Supfen pants are made to order and can take 3-6 months for production and shippi
 
 ### SPES
 
-The [SPES legs](https://histfenc.eu/en/160-legs) section offers pants, puffy pants, and skirts. At this time of writing, most options are primarily functional. Customization and tailoring is available for an additional charge.
+The [SPES legs](https://histfenc.eu/en/160-legs) section offers pants, puffy pants, and skirts. At the time of writing this guide, most options are primarily functional. Customization and tailoring is available for an additional charge.
 
 SPES pants are made to order and can take 3-4 months for production and shipping.  If you don't need custom sizing and want to roll the dice, you can also check out their [outlet](https://histfenc.eu/en/148-outlet) section.
 

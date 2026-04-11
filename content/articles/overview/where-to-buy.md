@@ -22,7 +22,7 @@ The line is a bit blurred in cases where distributors have entered into partners
 
 ## Customs and Self Clearing
 
-International orders that ship through Canada Post tend to have reasonable customs fees, but private couriers like UPS, FedEx, and DHL often inflate this by bundling their clearance fees with the shipment. For private couriers, consider [self-clearing](https://borderbee.com/2014/01/13/how-to-self-clear-your-parcel-with-customs/) if the numbers don't seem to add up.
+International orders that ship through Canada Post tend to have reasonable customs fees, but private couriers like UPS, FedEx, and DHL often inflate this by bundling their clearance fees with the shipment. For private couriers, consider [self-clearing](https://borderbee.com/2014/01/13/how-to-self-clear-your-parcel-with-customs/) if the numbers don't seem to add up. It's a hassle, but can save you hundreds of dollars.
 
 ## List of Sellers
 

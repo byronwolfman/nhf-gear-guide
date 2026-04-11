@@ -26,4 +26,4 @@ I want to reiterate that a sword is not the first thing you should buy. Some of 
 
 **Steel trainers are not safe for partner drills unless you're both wearing protective equipment.** If you don't have any protective gear, then you'll have to put away your steel trainer for partner drills and pick up a foam trainer instead. Partner drills frequently focus on landing a strike, which isn't fun or safe if you don't have the right protection for the trainer you're using.
 
-**You don't want to order the wrong sword.** There's no such a thing as "the wrong sword" but there is such thing as the wrong sword for _you_. All swords handle differently, and you want to be fighting with your sword instead of against it. Try out a bunch of swords at the club, find out what you like, and _then_ buy something.
+**You don't want to order the wrong sword.** There's no such thing as "the wrong sword" but there is such a thing as the wrong sword for _you_. All swords handle differently, and you want to be fighting with your sword instead of against it. Try out a bunch of swords at the club, find out what you like, and _then_ buy something.

@@ -45,7 +45,7 @@ Impact Resistant Gloves are suitable for use with sabre but not longsword. They 
 
 ### CHFG Gabriel Gloves
 
-Gabriels are a popular premium quality glove that are designed for longsword, though they work well for sabre too. If you have the budget and are looking for one glove to rule them all, CHFG Gabriels can be a good choice that are accepted in at local tournaments for both longsword and sabre. You can get them through [Swordshop](https://www.swordshop.ca/product/CHFG-Gabriel-Glove/82) and [HCA](https://www.historicalcombatarmory.com/product-page/chfg-gabriel-five-fingered-gloves).
+Gabriels are a popular premium quality glove that are designed for longsword, though they work well for sabre too. If you have the budget and are looking for one glove to rule them all, CHFG Gabriels can be a good choice that are accepted at local tournaments for both longsword and sabre. You can get them through [Swordshop](https://www.swordshop.ca/product/CHFG-Gabriel-Glove/82) and [HCA](https://www.historicalcombatarmory.com/product-page/chfg-gabriel-five-fingered-gloves).
 
 For all their versatility, Gabriels do not fit in a broadsword's baskethilt.
 
@@ -55,7 +55,7 @@ Black Princes are a premium quality glove with a few interesting quirks. They ar
 
 Black Prince gloves can be ordered [directly from HF Armory](https://hf-armory.com/en/shoppp/protectors/hand-protection/hema-gloves-black-prince/).
 
-These are generally allowed in tournaments for use with sabre. Due to the plastics being thinner, they must never be used with longsword. These gloves will trick you into thinking they can fit inside a broadsword's baskethilt, but you should not attempt this as the plastics can catch on the basket and break.
+These are generally allowed in tournaments for use with sabre. Due to the plastics being thinner, they must never be used in longsword. These gloves will trick you into thinking they can fit inside a broadsword's baskethilt, but you should not attempt this as the plastics can catch on the basket and break.
 
 ### Superior Fencing Clamshell Gloves 2.0
 

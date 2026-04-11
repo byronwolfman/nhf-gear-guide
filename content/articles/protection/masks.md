@@ -25,7 +25,7 @@ PBT gets a special mention despite their cost, as their quality tends to be exce
 
 ## Tournament/1600N/FIE Level 2 Masks
 
-If you're going to attend tournaments, you should consider one of these masks. Some of the bigger regional tournaments are requiring either a 1600N mask, and absent that will require your mask be paired with a rigid back-of-head protector. The distinction of rigid/non-rigid isn't always clear, so having a 1600N mask simplifies things.
+If you're going to attend tournaments, you should consider one of these masks. Some of the bigger regional tournaments require either a 1600N mask, or for your mask be paired with a rigid back-of-head protector. The distinction of rigid/non-rigid isn't always clear, so having a 1600N mask simplifies things.
 
 1600N masks can be up to twice as expensive as their basic counterparts, so if you won't be attending tournaments and you spar at a lighter intensity, you might consider a basic one instead. Some 1600N masks:
 

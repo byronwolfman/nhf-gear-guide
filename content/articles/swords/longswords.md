@@ -9,7 +9,7 @@ This will be sectioned out alphabetically by seller. It isn't a list of every si
 
 ## Aureus Swords | 🇵🇱
 
-This doesn't really belong on a beginner's guide, but it's here because you're eventually going to notice John's longsword and wonder what it is, and that's an Aureus. An Aureus is a premium longsword with a minimum 24 month wait according to their current production queue. An Aureus is a great second (or even third) longsword, ordered only after you've decided that you're in it for the long haul.
+This doesn't really belong on a beginner's guide, but it's here because you're eventually going to notice John's longsword and wonder what it is. An Aureus is a premium longsword with a minimum 24 month wait according to their current production queue. An Aureus is a great second (or even third) longsword, ordered only after you've decided that you're in it for the long haul.
 
 Aureus swords are tournament legal.
 

@@ -39,6 +39,6 @@ Plasticsmith items are made to order, so "out of stock" actually means the produ
 
 ### KneePro
 
-KneePro protectors protect only the knee, as the name implies. This protection extends both above and below the knee, and are hinged in such a way that there are no gaps even in a full lunge. You can get a lot of protection by combining these with shin guards.
+KneePro protectors protect only the knee, as the name implies. These extend above and below the knee, and they're hinged in such a way that there are no gaps even in a full lunge. You can get a lot of protection by combining these with shin guards.
 
 These protectors are hard to find outside of [Purpleheart Armoury](https://www.woodenswords.com/Ultra_Flex_III_Knee_Pads_p/or.kneepro.htm), so the usual caveat applies: always try to put together a big group order to spread the shipping and customs fees, as this can be disproportionately expensive for small purchases.

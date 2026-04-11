@@ -11,7 +11,7 @@ While the area that the cup protects is a forbidden target, accidents do happen.
 
 ## Tournaments
 
-Jock cups are often mandatory for male presenting fencers in tournaments, and are strongly recommended for female presenting fencers. While NHF doesn't check for cups, some tournament judges require that fencers give their cup a quick tap-tap to prove that it's there during the ringside gear check.
+Jock cups are often mandatory for male presenting fencers in tournaments, and strongly recommended for everyone else. While NHF doesn't check for cups, some tournament judges require that fencers give their cup a quick tap-tap to prove that it's there during the ringside gear check.
 
 You're not going to get hit there a lot. But when you do, you'll really want to be wearing a cup.
 

@@ -11,7 +11,7 @@ This will be sectioned out alphabetically by seller. It isn't a list of every si
 
 If you want to tinker with your sabre's performance, Arm Street has a couple of interesting sabres like the [Podium](https://armstreet.com/store/armoury/armstreet-podium-tournament-saber-hema-weapons) and [One Standard](https://armstreet.com/store/armoury/armstreet-one-standard-saber-hema-weapon). The idea is that you can swap out your sabre's guard or handle to change its weight or balance, all without having to go out and buy a whole new sabre. The blade itself is made by HF Armory.
 
-These could be tournament legal or not depending on the modifications are in play. The blade would be considered a partial curve.
+These could be tournament legal or not depending on what modifications are in play. The blade would be considered a partial curve.
 
 ## Krieger | 🇵🇱
 
