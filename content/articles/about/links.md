@@ -4,6 +4,6 @@ title: "Link Index"
 
 # Links
 
-This is an automatically generated list of all outbound websites that this guide links to.
+This is an automatically generated list of all outbound websites in this guide.
 
 {{<link-index>}}
