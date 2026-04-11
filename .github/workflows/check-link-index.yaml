@@ -18,7 +18,9 @@ jobs:
           # Check for changes, and complain if any are found
           changed=$(git diff --name-only layouts/shortcodes/link-index.html)
           if [[ -n $changed ]] ; then
+            echo -e
             echo "layouts/shortcodes/link-index.html has been modified; please re-run ./scripts/build-index.py"
+            echo -e
 
             git diff --exit-code
           fi
