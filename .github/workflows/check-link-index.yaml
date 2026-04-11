@@ -1,0 +1,26 @@
+---
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  check-link-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Verify link-index shortcode is up-to-date
+        run: |
+          # Generate/re-generate link index
+          ./scripts/build-index.py
+
+          # Check for changes, and complain if any are found
+          changed=$(git diff --name-only layouts/shortcodes/link-index.html)
+          if [[ -n $changed ]] ; then
+            echo -e
+            echo "layouts/shortcodes/link-index.html has been modified; please re-run ./scripts/build-index.py"
+            echo -e
+
+            git diff --exit-code
+          fi
