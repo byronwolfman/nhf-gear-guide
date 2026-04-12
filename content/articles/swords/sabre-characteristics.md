@@ -5,7 +5,7 @@ weight: 3
 
 # Sabre Characteristics
 
-The meta in Southern Ontario tends towards light-to-medium weight sabres, usually with cuphilts, and usually with partial curve blades. The exception is broadswords, which are technically heavier by virtue of the weight in their baskethilts, and yet broadswords can be just as nimble as a medium weight sabre thanks to being so backweighted.
+The meta in Southern Ontario tends towards light-to-medium weight sabres, usually with cuphilts and partially curved blades. Broadswords are an exception to this, technically heavier by virtue of the weight in their baskethilts, but just as nimble as a medium weight sabre thanks to being so backweighted.
 
 What this all means for you:
 
@@ -37,7 +37,7 @@ Our club considers "light-to-medium" sabres to be in the **700-800g** range. The
 
 Our club considers medium-heavy sabres to be in the **800-950g** range. These have a lot of presence and can parry a dueling sabre even if the strong/weak placement isn't perfect. These sabres have their place and can be effective in the right hands, but they require more effort to control, and will put you at a disadvantage as a new fencer. If you find yourself preferring a heavier style, consider a medium-heavy sabre as your second sword instead of your first.
 
-A broadsword usually starts at **1kg** with most of the weight concentrated in the baskethilt. A 1kg broadsword tends to perform like a 700-800g sabre, but with better presence because the whole sword still has more mass even if it's behind the blade. One of our fencers described fencing with a broadsword as "it parries for you."
+A broadsword usually starts at **1kg** with most of the weight concentrated in the baskethilt. A 1kg broadsword tends to perform like a 700-800g sabre, but with better presence because the whole sword still has more mass even if it's behind the blade.
 
 An important consideration is that not all swords weigh their advertised weight. There are a lot of manual processes that go into their creation which can result in discrepancies. If you're ordering from a distributor, you can ask them to weigh a sword before you buy it. If you're ordering from an OEM, you can try to ask for more information, or in some cases request a specific weight (see the customization section below).
 
