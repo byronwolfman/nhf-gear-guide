@@ -17,7 +17,7 @@ Aureus swords are tournament legal.
 
 The Esker Forge [Standard](https://eskerforge.com/product/the-standard/) is no longer available, though if you're lucky you might find someone willing to sell you one second-hand. The Standard is a sword that cheats the laws of physics by using better physics. It is light and fast while offering the bind presence of a heavier sword. It is kinder both to you and your opponent. While there is no perfect sword, this may as well be the next best thing, especially for beginners.
 
-The Standard is tournament legal, and considered lightweight according to the club's definitions.
+The Standard is tournament legal, and considered light-weight according to the club's definitions.
 
 ## HF Armory | 🇺🇦
 
@@ -25,9 +25,15 @@ The HF Armory feder is a solid economy sword. Inexpensive without being cheap, a
 
 Both are tournament legal.
 
+## Regenyei Armory | 🇭🇺
+
+Regenyei's [Standard Feder](https://regenyei.com/product/standard-feder/) is the Honda Civic of longswords. It's not an economy sword or a premium sword, just a solid, durable, dependable sword. Opt for the "medium" blade to get decent bind presence while keeping things tournament legal. At 1420g, the Standard is considered a medium-weight sword.
+
+Regenyei offers [numerous other feders](https://regenyei.com/feders/) if you're looking for something more specialized.
+
 ## Sigi Forge | 🇸🇰
 
-It's easy to lose time playing with Sigi's [Sword Builder](https://sigiforge.com/swordbuilder/). There are too many swords to detail here and half the fun is exploring all the different ones available. In general though: Sigi feders tend to all hover around 1580g prior to customization (a heavy-weight longsword by our definition, but only just barely), and their light feders between 1250-1400g (a lightweight longsword by our definition).
+It's easy to lose time playing with Sigi's [Sword Builder](https://sigiforge.com/swordbuilder/). There are too many swords to detail here and half the fun is exploring all the different ones available. In general though: Sigi feders tend to all hover around 1580g prior to customization (a heavy-weight longsword by our definition, but only just barely), and their light feders between 1250-1400g (a light-weight longsword by our definition).
 
 Most (but not all) of their feders have schilts. Schilts provide important finger protection so all other things being equal, you should opt for a blade that has one.
 
