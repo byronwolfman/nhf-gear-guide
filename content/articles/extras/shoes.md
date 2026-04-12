@@ -4,7 +4,7 @@ title: "Shoes"
 
 # Shoes
 
-Shoes are one of those exceptional cases where having the right kind actually _will_ make you a better, safer fencer. This isn't true of most gear. A good jacket is one that fits and breathes well, but it won't score more points. Good shoes will.
+Shoes are one of those exceptional cases where having the right kind actually _will_ make you a better, safer fencer. This isn't true of most gear. A good jacket is one that fits and breathes well but it won’t score more points. Good shoes will.
 
 The good news is that you don't need fancy high-end shoes, just the right kind: what you're looking for are _court shoes._
 

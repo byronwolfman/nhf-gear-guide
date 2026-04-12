@@ -14,7 +14,7 @@ There are (broadly speaking) two major sources of HEMA gear:
 1. Original equipment makers (OEMs)
 1. Distributors
 
-**OEMs** generally make equipment to order, have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement can be inconsistent across couriers, so hope for the best and plan for the worst.
+**OEMs** generally make equipment to order, have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement is inconsistent, so hope for the best and plan for the worst.
 
 **Distributors** on the other hand are more like storefronts that stock ready-to-ship gear. Some distributors stock the same equipment you would otherwise buy from OEMs, sometimes whitelabelled, and often competitively priced because they can bulk order. Stock tends to ebb and flow, and when something is in stock it is almost always the fastest way to get something. These tend _not_ to be drop-shippers, since they must bulk order their inventory to achieve margin and overcome their import costs.
 
@@ -22,7 +22,7 @@ The line is a bit blurred in cases where distributors have entered into partners
 
 ## Customs and Self Clearing
 
-International orders that ship through Canada Post tend to have reasonable customs fees, but private couriers like UPS, FedEx, and DHL often inflate this by bundling their clearance fees with the shipment. For private couriers, consider [self-clearing](https://borderbee.com/2014/01/13/how-to-self-clear-your-parcel-with-customs/) if the numbers don't seem to add up. It's a hassle, but can save you hundreds of dollars.
+International orders that ship through Canada Post tend to have reasonable customs fees, but private couriers like UPS, FedEx, and DHL often inflate this by bundling their clearance fees with the shipment. For private couriers, consider [self-clearing](https://borderbee.com/2014/01/13/how-to-self-clear-your-parcel-with-customs/) if the numbers don't seem to add up.
 
 ## List of Sellers
 
@@ -36,7 +36,7 @@ Below is a non-exhaustive list of OEMs and distributors that are broadly conside
 [Plasticsmith Armoury](https://plasticsmitharmoury.com/) | 🇨🇦 | OEM maker of protective equipment.
 [Swordshop](https://www.swordshop.ca/) | 🇨🇦 | Distributor in Winnipeg, Manitoba. Swordshop has also begun designing and selling swords through partnerships.
 ||
-[Armstreet](https://armstreet.com/) | 🇺🇦, 🇺🇸 | OEM mostly for medieval re-enactment, and also some HEMA gear. May ship from the US or from Ukraine.
+[Armstreet](https://armstreet.com/) | 🇺🇦  , 🇺🇸   | OEM mostly for medieval re-enactment, and also some HEMA gear. May ship from the US or from Ukraine.
 [Aureus Swords](https://aureusswords.com/) | 🇵🇱 | OEM premium longsword maker. Known for multi-year wait times (the swords may just be good enough to warrant it).
 [Castille Armory](https://castillearmory.com/) | 🇺🇸 | OEM sword maker. Castille offers many different kinds of swords, and within NHF are best known for the Economy Broadsword with a feder blade, and their Economy Duelling Sabres.
 [Darkwood Armory](https://rapiers.darkwoodarmory.com/) | 🇺🇸 | OEM sword maker (plus some other stuff).
@@ -47,7 +47,7 @@ Below is a non-exhaustive list of OEMs and distributors that are broadly conside
 [MAC Armour](https://www.mac-armour.cz/) | 🇨🇿 | OEM maker of protective gear, and other stuff.
 [Malleus Martialis](https://malleusmartialis.com/) | 🇮🇹 | OEM premium sword maker. Malleus sideswords tend to be excellent.
 [Purpleheart Armoury](https://www.woodenswords.com/) | 🇺🇸 | Distributor with massive inventory. Shipping/duties tend to be very high when shipping to Canada, so a large group order is necessary to reduce the pain.
-[Regenyei Armory](https://regenyei.com/) | 🇭🇺 | OEM sword maker. Sometimes has "Pick-and-Go" inventory from abandoned orders. Currently thought to have some of the best longswords and sabres.
+[Regenyei Armory](https://regenyei.com/) | 🇭🇺   | OEM sword maker. Sometimes has "Pick-and-Go" inventory from abandoned orders. Currently thought to have some of the best longswords and sabres.
 [Sigi Forge](https://sigiforge.com/) | 🇸🇰 | OEM sword maker. Has a very wide selection of longswords/feders.
 [SPES/Histfenc](https://histfenc.eu/en/) | 🇵🇱 | OEM maker of protective gear best known for their jackets. Mostly made-to-order, but has an "outlet" section of ready-to-ship gear.
 [Superior Fencing (Supfen)](https://www.supfen.com/) | 🇵🇰 | OEM maker of economy protective gear. Has a wide variety of jackets, pants, and arm/leg protectors. Many distributors carry Supfen gear.

@@ -9,7 +9,7 @@ weight: 1
 ---
 # Swords Overview
 
-Whether you're driven by careful deliberation or the reckless but reasonable desire to have a sword right away, it's time to get one.
+Whether you've deliberated carefully, or are being driven by the reckless but reasonable desire to have a sword right away, it's time to get one.
 
 Steel HEMA trainers are not like regular swords. Despite being _swords_ there is a lot of work that goes into making them safer than just taking a real sword and blunting all the edges. Good HEMA trainers also have high surface area tips and flex under thrust. For this reason you should never use a real blunted sword in partner drills or sparring, and especially never a sharp one.
 
@@ -24,7 +24,6 @@ Is the sword forward weighted, or back weighted? The balance can make a heavy sw
 A forward weighted sword will have more momentum in a cut. Sabres will moulinet well through a cut into a guard, and longswords will strike well in opposition. A forward weighted sword will have more presence than a backweighted sword of the same weight.
 
 A backweighted sword will feel more nimble, and will depend on you to make effective cuts and thrusts. A backweighted sword will have less presence than a forward weighted sword of the same weight.
-
 
 ## Tips
 

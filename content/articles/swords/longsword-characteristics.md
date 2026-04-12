@@ -41,7 +41,7 @@ An important consideration is that not all swords weigh their advertised weight.
 
 ## Crossguard Styles
 
-Though nominally for defence, a crossguard's quillons are also a great way to make your sword uniquely stand out. It's therefore important to understand how this affects safety.
+Though nominally for defence, a crossguard is also a great way to make your sword uniquely stand out. It's therefore important to understand how this affects safety.
 
 Squared and bulbed ends are safest. Curved/upswept quillons might look like they would catch an opposing sword better, but in practice make little difference. Curved/upswept quillons can also be unsafe for your sparring partner. Some crossguards include hand protection rings which may seem useful, but as a beginner, err on getting your first longsword _without_ them. We have no self-control and rarely stop at one sword, so if you really want crossguard rings, you can always get them on your next sword.
 
