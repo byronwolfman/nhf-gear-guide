@@ -17,11 +17,11 @@ All of the below recommended chest protectors are accepted by local tournament o
 
 While some fencers can get away with a flat "men's" chest protector, women and femme-presenting fencers should investigate women's chest protectors. A men's chest protector has all the same problems as a "unisex" t-shirt while also being rigid, whereas women's chest protectors are designed to accommodate different bust sizes.
 
-Swordshop carries a basic cupped [women's chest protector](https://www.swordshop.ca/product/Womens-Chest-Protector/48).
+MAC sells a durable cuirass-style cupless [women's chest protector](https://www.mac-armour.cz/p/women-chest-protector) which some fencers consider more comfortable. There is also [a variant](https://www.mac-armour.cz/p/women-s-chest-protector) with moveable armhole segments and optional protective brace. Although these protectors stick out a bit, both can accommodate a sports bra.
 
-MAC sells a cuirass-style cupless [women's chest protector](https://www.mac-armour.cz/p/women-chest-protector) which some fencers consider more comfortable. There is also [a variant](https://www.mac-armour.cz/p/women-s-chest-protector) with moveable armhole segments and optional protective brace.
+Basic "boob armour" chest protectors also exist but are not recommended, as they’re made out of thin materials that tend to crack ("men's" chest protectors, though also thin, are less susceptible to this due to their simpler shape). These chest protectors don’t stick out as much, but aren’t designed to work well with sports bras. If you absolutely must get this kind of chest protector, opt for one with an extension plate for the stomach, like [this PBT mode](https://shop.pbtfencing.com/extended-chest-protector-for-women4179-hex). Chest protectors should provide rib coverage, but unfortunately many online shops only carry basic versions without the extension plate needed to protect most of your ribs.
 
-TODO: get feedback from Gigi/Elizabeth/Laura
+A third option is a brigandine, detailed below.
 
 ### Men's Chest Protectors
 
