@@ -9,7 +9,7 @@ It sure looks like there are a lot of decisions to make. What if you could buy m
 
 Starter kits are an easy way to get (almost) fully geared. [Superior Fencing kits](https://www.supfen.com/products/full-hema-kits.html) are reasonably priced and include almost everything you need. Note that these kits do not include masks (though many _do_ include mask overlays) and not all kits include gloves or mitts.
 
-Starter kits are usually made-to-order, with production and shipping taking anywhere between 3-6 months in my experience.
+Starter kits are usually made-to-order, with production and shipping taking anywhere between 3-6 months.
 
 ## Fit
 

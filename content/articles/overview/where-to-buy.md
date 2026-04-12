@@ -14,7 +14,7 @@ There are (broadly speaking) two major sources of HEMA gear:
 1. Original equipment makers (OEMs)
 1. Distributors
 
-**OEMs** generally make equipment to order, have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement is inconsistent in my experience, so hope for the best and plan for the worst.
+**OEMs** generally make equipment to order, have multi-week or multi-month production queues, and sometimes offer customizations. Most OEMs have enough demand that they do not carry an inventory of ready-to-ship items, though there are exceptions. Most OEMs are outside of Canada, meaning that one must account for currency exchange, shipping, and the possibility of customs/import fees. Customs enforcement can be inconsistent across couriers, so hope for the best and plan for the worst.
 
 **Distributors** on the other hand are more like storefronts that stock ready-to-ship gear. Some distributors stock the same equipment you would otherwise buy from OEMs, sometimes whitelabelled, and often competitively priced because they can bulk order. Stock tends to ebb and flow, and when something is in stock it is almost always the fastest way to get something. These tend _not_ to be drop-shippers, since they must bulk order their inventory to achieve margin and overcome their import costs.
 
