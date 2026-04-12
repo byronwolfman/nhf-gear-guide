@@ -29,6 +29,8 @@ Both are tournament legal.
 
 Regenyei's [Standard Feder](https://regenyei.com/product/standard-feder/) is the Honda Civic of longswords. It's not an economy sword or a premium sword, just a solid, durable, dependable sword. Opt for the "medium" blade to get decent bind presence while keeping things tournament legal. At 1420g, the Standard is considered a medium-weight sword.
 
+The [Spiky Feder](https://regenyei.com/product/custom-feder-spiky/) is a Regenyei Standard that allows you to choose non-standard customization, such as a spatulated tip and a bazillion different pommels.
+
 Regenyei offers [numerous other feders](https://regenyei.com/feders/) if you're looking for something more specialized.
 
 ## Sigi Forge | 🇸🇰
