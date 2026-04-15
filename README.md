@@ -4,6 +4,12 @@
 
 Let's talk about sword fighting stuff. Hugo repository for the unofficial NHF Gear Guide, currently published to https://nhf-gear-guide.netlify.app/
 
+## Contributing
+
+Pull requests that make corrections (spelling, accuracy, etc) are welcome. Pull requests making additions or more structural changes are less likely to be accepted. The goal of the guide is to be approachable and useful for newer fencers, rather than being a complete codex of every vendor and piece of equipment out there.
+
+AI generated submissions will generally be disregarded. NHF is, in all sincerity, really about the friends we make along the way. The human element is important, which extends to this guide.
+
 ## Dev
 
 Run `./up.sh` to start the devmode server on port 1313
