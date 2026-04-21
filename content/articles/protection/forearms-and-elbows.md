@@ -32,7 +32,7 @@ The [Heavy Arm Protector](https://www.supfen.com/product/protectors/hfg5297.html
 
 ### Maestro
 
-These are relatively new, compared to other entries. Their design is similar to the SPES PRO Set, but do a proper job of closing the gap on the inside of the forearm.
+These are relatively new, compared to other entries. Their design is similar to the SPES PRO Set, but do a proper job of closing the gap on the inside of the forearm. The elbow pad requires an arming strap.
 
 [North Armoury sells a plain version](https://northarmoury.ca/maestro-forearm-elbow/), or you could opt for the somewhat [stylized HCA version](https://www.historicalcombatarmory.com/product-page/maestro-elbow-and-forearm-protectors).
 
