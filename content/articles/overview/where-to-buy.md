@@ -47,7 +47,7 @@ Below is a non-exhaustive list of OEMs and distributors that are broadly conside
 [MAC Armour](https://www.mac-armour.cz/) | 🇨🇿 | OEM maker of protective gear, and other stuff.
 [Malleus Martialis](https://malleusmartialis.com/) | 🇮🇹 | OEM premium sword maker. Malleus sideswords tend to be excellent.
 [Purpleheart Armoury](https://www.woodenswords.com/) | 🇺🇸 | Distributor with massive inventory. Shipping/duties tend to be very high when shipping to Canada, so a large group order is necessary to reduce the pain.
-[Regenyei Armory](https://regenyei.com/) | 🇭🇺   | OEM sword maker. Sometimes has "Pick-and-Go" inventory from abandoned orders. Currently thought to have some of the best longswords and sabres.
+[Regenyei Armory](https://regenyei.com/) | 🇭🇺   | OEM sword maker. Sometimes has "Pick-and-Go" inventory from abandoned orders. Currently thought to have some of the best feders and sabres.
 [Sigi Forge](https://sigiforge.com/) | 🇸🇰 | OEM sword maker. Has a very wide selection of longswords/feders.
 [SPES/Histfenc](https://histfenc.eu/en/) | 🇵🇱 | OEM maker of protective gear best known for their jackets. Mostly made-to-order, but has an "outlet" section of ready-to-ship gear.
 [Superior Fencing (Supfen)](https://www.supfen.com/) | 🇵🇰 | OEM maker of economy protective gear. Has a wide variety of jackets, pants, and arm/leg protectors. Many distributors carry Supfen gear.
