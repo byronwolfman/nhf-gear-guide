@@ -19,7 +19,7 @@ All of the below recommended gorgets are accepted by local tournament organizers
 
 ### Superior Fencing
 
-Supfen's basic [HEMA Gorget](https://www.supfen.com/product/protectors/hfg5212.html) has a good profile, offers padded wings, and is easy to get on and off. It punches above its weight, and lots of NHF fencers have this model. North Armour sometimes stocks it as a whitelabel [North Armoury Gorget](https://northarmoury.ca/na-gorget/).
+Supfen's basic [HEMA Gorget](https://www.supfen.com/product/protectors/hfg5212.html) has a good profile, offers padded wings, and is easy to get on and off. It punches above its weight, and lots of NHF fencers have this model. North Armoury sometimes stocks it as a whitelabel [North Armoury Gorget](https://northarmoury.ca/na-gorget/).
 
 Some fencers prefer the minimalist [Roughneck Gorget](https://imexsport.ca/collections/hema/products/supfen-roughneck-gorget). This gorget protects _only_ the neck, so it should be paired with a larger chest protector and good shoulder protection.
 
