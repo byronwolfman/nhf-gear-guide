@@ -45,7 +45,7 @@ SPES jackets usually take 3-4 months for production and shipping. If you don't n
 
 ### Swordshop
 
-The whitelabelled [Ultralight Padded HEMA Jacket](https://www.swordshop.ca/product/Ultralight-Padded-HEMA-Jacket-350N/112) is an interesting jacket that lives up to its name. Our sabre instructor, Matt, has one, so you should talk to him if mobility is what's most important to you. As this is an off-the-shelf jacket, custom sizing isn't possible. This jacket should not be used for longsword.
+The whitelabelled [Ultralight Padded HEMA Jacket](https://www.swordshop.ca/product/Ultralight-Padded-HEMA-Jacket-350N/112) is an interesting jacket that lives up to its name. Our sabre instructor, Matt, has one, so you should talk to him if mobility is what's most important to you. As this is an off-the-shelf jacket, custom sizing isn't possible. This jacket is more suited to smallsword and rapier,  should not be used for longsword, and might be suitable for sabre only if you have a high pain tolerance.
 
 This jacket is not made on-demand, so if it's in stock, it will ship right away.
 
