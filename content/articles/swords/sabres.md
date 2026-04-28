@@ -47,6 +47,6 @@ Somewhat confusingly, the "straight" blade option is a partial curve. The "curve
 
 [Swordshop's Gymnasium Sabre](https://www.swordshop.ca/product/swordshop-gymnasium-sabre/AC3R4GOZKK54LVXJKDNQ6EF2) is an in-house design made in partnership with other sword makers. It's not someone else's sword with a whitelabel, and therefore it isn't available anywhere else.
 
-If "duelling" describes a lightweight sabre, than "gymnasium" usually describes a middleweight that comes in a little under the weight of historical sabres. This seems to be where the Swordshop sabre falls: one that favours a more historical feel but without being overly bulky. Fencers who want to opt for something heavier but not _heavy_ should consider this sabre.
+If "duelling" describes a lightweight sabre, then "gymnasium" usually describes a middleweight that comes in a little under the weight of historical sabres. This seems to be where the Swordshop sabre falls: one that favours a more historical feel but without being overly bulky. Fencers who want to opt for something heavier but not _heavy_ should consider this sabre.
 
 This sabre is tournament legal with local organizers and would be considered to have a partial curve blade.
