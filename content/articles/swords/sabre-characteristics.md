@@ -39,7 +39,7 @@ Our club considers medium-heavy sabres to be in the **800-950g** range. These ha
 
 A broadsword usually starts at **1kg** with most of the weight concentrated in the baskethilt. A 1kg broadsword tends to perform like a 700-800g sabre, but with better presence because the whole sword still has more mass even if it's behind the blade.
 
-An important consideration is that not all swords weigh their advertised weight. There are a lot of manual processes that go into their creation which can result in discrepancies. If you're ordering from a distributor, you can ask them to weigh a sword before you buy it. If you're ordering from an OEM, you can try to ask for more information, or in some cases request a specific weight (see the customization section below).
+An important consideration is that not all swords weigh their advertised weight. There are a lot of manual processes that go into their creation which can result in discrepancies. If you're ordering from a distributor, you can ask them to weigh a sword before you buy it. If you're ordering from an OEM, you can try to ask for more information, or in some cases request a specific weight.
 
 ## Cup/Hilt Style
 

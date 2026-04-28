@@ -37,7 +37,7 @@ Our club considers "medium" longswords to be in the **1400-1550g** range. These 
 
 Our club considers "heavy" longswords to be anything over **1550g**. The added mass helps with parrying and works well with blade actions, but these swords can also be tiring to use without conditioning, and missing a strike can leave you wide open. Control becomes especially important with heavier longswords so as to avoid injuring your sparring partner.
 
-An important consideration is that not all swords weigh their advertised weight. There are a lot of manual processes that go into their creation which can result in discrepancies. If you're ordering from a distributor, you can ask them to weigh a sword before you buy it. If you're ordering from an OEM, you can try to ask for more information, or in some cases request a specific weight (see the customization section below).
+An important consideration is that not all swords weigh their advertised weight. There are a lot of manual processes that go into their creation which can result in discrepancies. If you're ordering from a distributor, you can ask them to weigh a sword before you buy it. If you're ordering from an OEM, you can try to ask for more information, or in some cases request a specific weight.
 
 ## Crossguard Styles
 
