@@ -23,7 +23,7 @@ These are tournament legal with local organizers.
 
 North Armoury has been selling a [WuWu Dueling Sabre](https://northarmoury.ca/dueling-sabre/) for a little while now. It's a good economy sword that's fun to swing around. It has undergone at least one minor redesign to the extent that its weight has changed, so its best to ask North Armoury about its weight before ordering (they seem to be in the range of 710-730g right now).
 
-These are tournamen legal with local organizers. The blade would be considered a partial curve.
+These are tournament legal with local organizers. The blade would be considered a partial curve.
 
 ## Regenyei Armory | 🇭🇺
 
