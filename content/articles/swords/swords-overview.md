@@ -35,6 +35,10 @@ You'll find three kinds of tips on steel trainers:
 
 **Spatulated tips** are like a reverse sword tip. Instead of the blade focusing into a thin pinpoint, it flares outwards for the last 1-2cm to create a larger surface area. Spatulated tips _can_ offer good protection if the blade has a large profile to begin with, but even a spatulated tip does not guarantee safety, and still must have a tip cover. In a high-profile tournament incident, a spatulated rapier punctured a jacket because, as one fencer observed, a spatulated tip that small was functionally "unrecognizable from a leather punch." Regardless, spatulated tips provide an excellent surface to attach a leather or thermoplastic tip cover.
 
+![Different tips](/images/tips.jpg)
+
+{{<sub "Photo by Byron Wolfman">}}
+
 ## Customization
 
 Because many swords are made-to-order, you can sometimes request customizations. Some of these are offered formally as part of the ordering process like engravings or wrap materials and colours, and some you may have to ask about proactively. Some shops will allow you to request changes to the weight or blade length for an additional charge, though some swordmakers do not warranty such work.
