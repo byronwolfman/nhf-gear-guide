@@ -30,9 +30,3 @@ If you're already looking at Supfen gorgets then you should know to avoid the Su
 Winter Tree Crafts makes a [Stainless Gorget](https://www.wintertreecrafts.com/items/gorget.html) which ought to hold its own against anything. These should be paired with a larger chest protector and good shoulder protection.
 
 As WTC is a US-based OEM, exchange, shipping, and customs may significantly increase the final cost.
-
-### Darkwood Gorgets
-
-[Darkwood Gorgets](https://rapiers.darkwoodarmory.com/product/that-guys-gorgets/) are a good high-end choice, though pricey. They cover a bit of the sternum, and should be paired with a chest protector that accommodates them.
-
-As Darkwood Amory is a US-based OEM, exchange, shipping, and customs may significantly increase the final cost.
