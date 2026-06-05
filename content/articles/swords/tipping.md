@@ -12,7 +12,7 @@ Tipping (that is, adding a leather or thermoplastic safety tip) is mandatory at 
 1. It adds surface area to a tip, reducing the chance that poorly designed tip punctures our equipment, regardless of how "blunt" it may appear. A 350N jacket can repel a good safety tip better than an 800N jacket can repel an untipped sword.
 1. It provides a clear visual indicator of when a tip has broken. A broken tip looks remarkably similar to an intact one, whereas the sudden absence of a coloured safety tip is immediately noticeable.
 
-If attending tournaments, look for rulesets that require tipping. Tournaments are more likely to produce broken blades because there are more fencers, more exchanges, and people are fencing at higher intensity. Tournament organizers that do not require tipping should not be attended because they are putting you in unnecessary danger (to be clear, NHF will not stop you or sanction you if you decide to attend a tournament without mandatory tipping, we're just trying to look out for you).
+If attending tournaments, look for rulesets that require tipping. Tournaments are more likely to produce broken blades because there are more fencers, more exchanges, and people are fencing at higher intensity. Tournament organizers that do not require tipping are putting you in unnecessary danger, and you should not attend these events (to be clear, NHF will not stop you or sanction you if you decide to attend a tournament without mandatory tipping, we're just trying to emphasize that these events are foregoing a well-established safety measure).
 
 There are several methods of tipping but this guide will focus on three popular methods in order of effectiveness:
 
@@ -26,7 +26,7 @@ Thermoplastic tips work best with rolled or spatulated sword tips, as these shap
 
 ## Leather tips
 
-Leather tips wrapped with bright hockey tape are an easy and inexpensive way to tip a sword. You can buy a bag of scrap leather from Michaels that will last you for years, and hockey tape at Sportchek. Leather tips wear out quickly, so consider packing spare scraps and tape in your gear bag. A rounded sword tip will chew through leather particularly fast, so consider multiple layers, or better yet, a thermoplastic tip in such cases.
+Leather tips wrapped with bright hockey tape are an easy and inexpensive way to tip a sword. You can buy a bag of scrap leather from Michaels that will last you for years, and hockey tape at Canadian Tire or Sportchek. Leather tips wear out quickly, so consider packing spare scraps and tape in your gear bag. A rounded sword tip will chew through leather particularly fast, so consider multiple layers, or better yet, a thermoplastic tip in such cases.
 
 Some of us pack these materials in our gear bag, so if you're coming to class with a new sword, someone can help you apply your first leather tip.
 
