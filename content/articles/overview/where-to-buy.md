@@ -39,7 +39,6 @@ Below is a non-exhaustive list of OEMs and distributors that are broadly conside
 [Armstreet](https://armstreet.com/) | 🇺🇦  , 🇺🇸   | OEM mostly for medieval re-enactment, and also some HEMA gear. May ship from the US or from Ukraine.
 [Aureus Swords](https://aureusswords.com/) | 🇵🇱 | OEM premium longsword maker. Known for multi-year wait times (the swords may just be good enough to warrant it).
 [Castille Armory](https://castillearmory.com/) | 🇺🇸 | OEM sword maker. Castille offers many different kinds of swords, and within NHF are best known for the Economy Broadsword with a feder blade, and their Economy Duelling Sabres.
-[Darkwood Armory](https://rapiers.darkwoodarmory.com/) | 🇺🇸 | OEM sword maker (plus some other stuff).
 [Feather Smallswords](https://www.feathersmallswords.com/) | 🇷🇸 | OEM smallsword maker.
 [HF Armory](https://hf-armory.com/en/) | 🇺🇦 | OEM maker of swords and protective equipment. Carries some of the best "economy" swords (inexpensive, plain, yet robust). Often has ready-to-ship stock.
 [Krieger Historical Weapons](https://kriegerweapons.com/) | 🇵🇱 | OEM sword maker. Sometimes has ready-to-ship stock.
