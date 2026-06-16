@@ -18,10 +18,8 @@ If you're not attending a tournament and just want a basic mask, these can do th
 Basic/economy recommendations:
 
 * [North Armoury Economy Mask](https://northarmoury.ca/north-armoury-economy-mask-350n/)
-* [PBT Hema Mask](https://shop.pbtfencing.com/hema-mask-350n-full-black3343-bbh) (not recommended for longsword)
+* [Imex HEMA Mask](https://imexsport.ca/collections/hema/products/imex-350n-hema-mask) (not recommended for longsword)
 * [Swordshop Basic HEMA Mask](https://www.swordshop.ca/product/basic-hema-mask/2)
-
-PBT gets a special mention despite their cost, as their quality tends to be excellent.
 
 ## Tournament/1600N/FIE Level 2 Masks
 
@@ -31,7 +29,6 @@ If you're going to attend tournaments, you should consider one of these masks. S
 
 * [HFA 1600 mask](https://hf-armory.com/en/shop/protectors/head-protection/hema-tournament-1600n-mask/?alg_currency=EUR)
 * [North Armoury 1600N mask](https://northarmoury.ca/north-armoury-stainless-steel-mask-1600n/)
-* [PBT Black 1600N mask](https://shop.pbtfencing.com/hema-fie-mask1600-n-full-black3341hema)
 * [Swordshop 1600N mask](https://www.swordshop.ca/product/stainless-steel-hema-mask/49)
 
 ## Wukusi Cobra
