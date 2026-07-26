@@ -31,7 +31,7 @@ A sabre's weight is not strictly about its speed. Light sabres are less energy d
 
 Which one is best for you? Try some and decide. In general though: a light sabre is terrifying in the hands of someone who is themselves fast and sneaky. A heavy sabre is terrifying in the hands of someone who has perfected their measure and knows how to control the tempo.
 
-Our club considers "duelling" sabres to be in the **600-700g range**. Something weighing at least 700g will be required to get into most Ontario tournaments. Duelling sabres are a lot of fun, and you can absolutely use these in class regardless of who's allowing what into tournaments.
+Our club considers "dueling" sabres to be in the **600-700g range**. Something weighing at least 700g will be required to get into most Ontario tournaments. Dueling sabres are a lot of fun, and you can absolutely use these in class regardless of who's allowing what into tournaments.
 
 Our club considers "light-to-medium" sabres to be in the **700-800g** range. The forward/backward balance of swords in this weight class starts to make a big difference, and ideally compliments your fencing style.
 
