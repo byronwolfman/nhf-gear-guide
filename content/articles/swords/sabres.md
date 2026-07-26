@@ -19,12 +19,6 @@ The [Krieger S6](https://kriegerweapons.com/products/hema/s6-hema-sabre/) is an 
 
 These are tournament legal with local organizers.
 
-## North Armoury | 🇨🇦
-
-North Armoury has been selling a [WuWu Dueling Sabre](https://northarmoury.ca/dueling-sabre/) for a little while now. It's a good economy sword that's fun to swing around. It has undergone at least one minor redesign to the extent that its weight has changed, so its best to ask North Armoury about its weight before ordering (they seem to be in the range of 710-730g right now).
-
-These are tournament legal with local organizers. The blade would be considered a partial curve.
-
 ## Regenyei Armory | 🇭🇺
 
 It's physically impossible for fencers to talk about Regenyei sabres without bringing up the fact that their _old_ sabres are considered crowbars. They have all undergone a drastic redesign and are now considered one of the best sabres available in terms of safety, performance, and price.
@@ -47,6 +41,12 @@ Somewhat confusingly, the "straight" blade option is a partial curve. The "curve
 
 [Swordshop's Gymnasium Sabre](https://www.swordshop.ca/product/swordshop-gymnasium-sabre/AC3R4GOZKK54LVXJKDNQ6EF2) is an in-house design made in partnership with other sword makers. It's not someone else's sword with a whitelabel, and therefore it isn't available anywhere else.
 
-If "duelling" describes a lightweight sabre, then "gymnasium" usually describes a middleweight that comes in a little under the weight of historical sabres. This seems to be where the Swordshop sabre falls: one that favours a more historical feel but without being overly bulky. Fencers who want to opt for something heavier but not _heavy_ should consider this sabre.
+If "dueling" describes a lightweight sabre, then "gymnasium" usually describes a middleweight that comes in a little under the weight of historical sabres. This seems to be where the Swordshop sabre falls: one that favours a more historical feel but without being overly bulky. Fencers who want to opt for something heavier but not _heavy_ should consider this sabre.
 
 This sabre is tournament legal with local organizers and would be considered to have a partial curve blade.
+
+## WuWu | via 🇨🇦
+
+The WuWu Dueling Sabre is a good economy sword that's fun to swing around. It has undergone at least one minor redesign to the extent that its weight has changed, so its best to ask the vendor about its weight before ordering (they seem to be in the range of 710-730g right now). It can be ordered through [North Armoury](https://northarmoury.ca/dueling-sabre/) and [HCA](https://www.historicalcombatarmory.com/product-page/sabre-1).
+
+These are tournament legal with local organizers. The blade would be considered a partial curve.
