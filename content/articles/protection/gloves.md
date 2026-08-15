@@ -51,11 +51,11 @@ For all their versatility, Gabriels do not fit in a broadsword's baskethilt.
 
 ### HF Armory Black Prince
 
-Black Princes are a premium quality glove with a few interesting quirks. They are smaller than many other hardshell five finger gloves, allowing them to fit inside smaller cups like the Sigi Sabre PRO. The gloves' resting position is a handshake grip, meaning you don't have to fight them to keep your grip closed when fencing. Be aware that these only come in a single size (M/L) which is somewhere in between. If you have medium hands, they will fit. If your hands are on the smaller side of large, they will fit after a break-in period. If your hands are larger, they will definitely not fit.
+Black Princes are a premium quality glove with a few interesting quirks. They are smaller than many other hardshell five finger gloves, allowing them to fit inside smaller cups like the Sigi Sabre PRO. The gloves' resting position is a handshake grip, meaning you don't have to fight them to keep your grip closed when fencing. Be aware that these come in limited sizes; there's an "M/L" which is somewhere in between, and an XL for larger hands. If you're not sure which size is best for you, check in the Discord to see who has a pair you might be able to try on.
 
 Black Prince gloves can be ordered [directly from HF Armory](https://hf-armory.com/en/shoppp/protectors/hand-protection/hema-gloves-black-prince/).
 
-These are generally allowed in tournaments for use with sabre. Due to the plastics being thinner, they must never be used in longsword. These gloves will trick you into thinking they can fit inside a broadsword's baskethilt, but you should not attempt this as the plastics can catch on the basket and break.
+Black Princes are generally allowed in tournaments for use with sabre. Due to the plastics being thinner, they must never be used in longsword. The M/L version of these gloves will trick you into thinking they can fit inside a broadsword's baskethilt, but you should not attempt this as the plastics can catch on the basket and break.
 
 ### Superior Fencing Clamshell Gloves 2.0
 
